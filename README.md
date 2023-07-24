@@ -42,7 +42,7 @@ Also, for further details and insights generated from this Project, see [here](h
 
 
 ## Conclusion & Recommendation
-The visuals was able to show the top performing customers, Products, Product category and locations. It also showed that the company's revenue generation had a steady rise from July 2013 till the 1st quarter of 2015, nosediving afterwards. To boost revenue generation, the company was advised to do the following:
+The visual was able to show the top performing customers, Products, Product category and locations. It also showed that the company's revenue generation had a steady rise from July 2013 till the 1st quarter of 2015, nosediving afterwards. To boost revenue generation, the company was advised to do the following:
 - carry out a market basket analysis to identify customer purchase pattern
 - Top category products should always be in stock especially in top performing location
 - Negotiate a downward review of the freight costs of the top freight company
