@@ -11,12 +11,12 @@ As part of its usual monthly routine, **Maven Analytics** organised a challenge 
 Although top KPI metrics such as sales trend, Company's product performance, key customers and general shipping costs were looked at. However, emphasis was placed on identifying ways of improving and strengthening the company's revenue performance while still delivering value to customers. 
 
 ## Data Transformation/Cleaning
-I imported the datasets into my Power BI desktop from whence I loaded them to the Power Query Editor. To ensure data quality, I cleaned and transformed the raw csv file by doing the following on Power Query Editor:
+I exported the data to the Power Query Editor on Power BI. To ensure data quality, I cleaned and transformed the raw csv file by doing the following on Power Query Editor:
 
 - Ensured column profiling based on entire dataset
 - Removed Duplicated records
 - Created new columns, some of which are the **OrderDate-Month, OrderDate-Year, and OrderDate-Day of Week**; all in the Orders table. All these I created using the **Transform** function.
-- I checked the column quality to ensure there were no error or empty cells.
+- I checked the column quality to ensure there were no errors or empty cells.
 - Changed the column datatypes to the correct corresponding datatypes
 
   
