@@ -14,7 +14,7 @@ Although top KPI metrics such as sales trend, Company's product performance, key
 I imported the datasets into my Power BI desktop from whence I loaded them to the Power Query Editor. To ensure data quality, I cleaned and transformed the raw csv file by doing the following on Power Query Editor:
 
 - Ensured column profiling based on entire dataset
-- Removed Duplicated recordeds
+- Removed Duplicated records
 - Created new columns, some of which are the **OrderDate-Month, OrderDate-Year, and OrderDate-Day of Week**; all in the Orders table. All these I created using the **Transform** function.
 - I checked the column quality to ensure there were no error or empty cells.
 - Changed the column datatypes to the correct corresponding datatypes
