@@ -11,7 +11,7 @@ As part of its usual monthly routine, **Maven Analytics** organised a challenge 
 Although top KPI metrics such as sales trend, Company's product performance, key customers and general shipping costs were looked at. However, emphasis was placed on identifying ways of improving and strengthening the company's revenue performance while still delivering value to customers. 
 
 ## Data Transformation/Cleaning
-I exported the data to the Power Query Editor on Power BI. To ensure data quality, I cleaned and transformed the raw csv file by doing the following on Power Query Editor:
+I imported the data to the Power Query Editor on Power BI. To ensure data quality, I cleaned and transformed the raw csv file by doing the following on Power Query Editor:
 
 - Ensured column profiling based on entire dataset
 - Removed Duplicated records
